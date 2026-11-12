@@ -2,7 +2,7 @@
 
 A responsive web application designed to help households identify and calculate the hidden annual electricity costs of "vampire power" (standby power consumed by electronics while turned off or idle).
 
-🔗 **[Try the Live Calculator Here](https://github.io)**
+🔗 **[Try the Live Calculator Here](https://antoinette-fortes.github.io/vampire-power-calculator/)**
 
 
 
