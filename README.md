@@ -4,6 +4,7 @@ A responsive web application designed to help households identify and calculate 
 
 🔗 **[Try the Live Calculator Here](https://github.io)**
 
+
 ## 💡 The Problem It Solves
 With rising utility rates, many households unknowingly lose up to 10% of their annual electricity bill to appliances drawing standby power. This tool provides an instant, ad-free breakdown of continuous wattage draw and financial waste.
 
